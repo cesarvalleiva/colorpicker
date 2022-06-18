@@ -1,0 +1,28 @@
+.colorPicker {
+    width: 100%;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.picker {
+    width: 200px;
+    height: 100px;
+    background-color: white;
+    padding: 5px;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+.inputColor {
+    width: 19%;
+    height: 30px;
+}
+
+.inputText {
+    width: 79%;
+    height: 30px;
+}
